@@ -1,4 +1,4 @@
-# Discord Webhook İşlem Projesi
+# USOM API Projesi
 
 Bu proje, Verilen URL'in USOM sitesinde kayıtlı olup olmadığını kontrol eder. Kullanıcıya basit bir arayüz sunar.
 
